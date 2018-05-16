@@ -1,0 +1,6 @@
+target/
+.settings/
+.idea/
+wily-starter-project.iml
+.scannerwork/
+help-system-services.iml
